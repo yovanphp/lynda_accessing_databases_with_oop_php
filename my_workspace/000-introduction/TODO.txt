@@ -1,0 +1,5 @@
+1. Download videos
+ - SQL Essential training - Bill Weinman
+ - Up and running with MySQL Development - Sheeri Cabral
+ - Up and running with phpmyadmin
+
